@@ -11,7 +11,7 @@ class README extends Desenvolvedor | Ui/Ux {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["HTML5", "CSS3", "JavaScript", "Java", "Python"];
+  linguagens = ["JavaScript", "Python"];
   frameworks = ["Angular", "Spring"];
   aplicativos = ["Figma", "Adobe XD" ,"Visual Code"];
 }
