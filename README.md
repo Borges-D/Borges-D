@@ -6,16 +6,17 @@ import Desenvolvedor from "CodaFofo";
 
 class README extends Desenvolvedor | Ui/Ux {
   nome = "David Lucas";
-  area = "Front-End";
+  area = "Front-End/Back-End";
   local = "São Paulo";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["JavaScript", "Python"];
-  frameworks = ["Angular", "Spring"];
-  aplicativos = ["Figma", "Adobe XD" ,"Visual Code"];
+  linguagens = ["JavaScript", "Python", "Java"];
+  frameworks = ["Angular", "Spring", "Tailwind", "Bootstrap"];
+  aplicativos = ["Figma", "Adobe XD", "Visual Code", "Intellij"];
 }
- class contact extends David Lucas  
+ class contact extends David Lucas
+ Estudante de FullStack Java na SoulCode Academy. 
   Linkedin = (https://www.linkedin.com/in/david-lucas-92619a1b3)
        Dio = (https://www.dio.me/users/davidcontatodev)
   
