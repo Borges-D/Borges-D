@@ -1,25 +1,57 @@
+### Seja bem vindo! 👋
 
-<img src="https://cdn.discordapp.com/attachments/1139016336899588177/1169862922407792710/PngItem_1272138.png?ex=65ea9abf&is=65d825bf&hm=24c8c7e32730af37e8ef4c608462954aa34cae862e7633dc44cad7d4865499bb&" min-width="400px" max-width="400px" width="400px" align="right">
+# Meu nome é David Lucas
 
-```js
-import Desenvolvedor from "Borges";
+Convido a todos para ler meu perfil e conhecer mais sobre minhas realizações profissionais.
 
-class README extends Desenvolvedor {
-  nome = "David Lucas";
-  area = "Front-End/Back-End";
-  local = "São Paulo";
-}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/david-lucas-92619a1b3/)
 
-class Skills extends Desenvolvedor {
-  linguagens = ["JavaScript", "Python", "Java"];
-  frameworks = ["Angular", "Spring", "Tailwind", "Bootstrap"];
-  aplicativos = ["Figma", "Adobe XD", "Visual Code", "Intellij"];
-}
- class contact extends David Lucas
- Formado em FullStack Java na SoulCode Academy. 
-  Linkedin = (https://www.linkedin.com/in/david-lucas-92619a1b3)
-       Dio = (https://www.dio.me/users/davidcontatodev)
-  
+## Soft Skills 🧠
 
- 
-  
+- Curiosidade
+- Perfil Análitico
+- Investigativo
+- Fácil Adaptabilidade
+- Confiabilidade
+- Aprendizado Contínuo
+- Trabalho em equipe
+
+## Hard Skills 💼
+
+- Desenvolvimento Full Stack com Java
+- Front-end com HTML5 e CSS3
+- Framework Spring para desenvolvimento Java
+- Desenvolvimento JavaScript
+- Análise de dados com MYSQL
+
+## Habilidades 🚀
+
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=E94D5F)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=30A3DC)
+
+## Projetos SoulCode Academy 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Borges-D&repo=Projeto-Final-SoulCode-Academy&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/Projeto-Final-SoulCode-Academy)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Borges-D&repo=Javascript-SoulCode&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/Javascript-SoulCode)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Borges-D&repo=aulas-spring-universia-2-master&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/aulas-spring-universia-2-master)
+
+## Projetos DIO
+
+### Desafios em JavaScript
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Borges-D&repo=desafio-felipao&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/desafio-felipao)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Borges-D&repo=Desafio-Felip-o2&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/Desafio-Felip-o2)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Borges-D&repo=desafio-felipao3&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/desafio-felipao3)
+
+## Projetos Alura + Oracle 
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Borges-D&repo=js-curso-2-aula_3&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/js-curso-2-aula_3)
+
+## Recrutadores 📞
+
+Agradeço por revisar meu perfil! Estou entusiasmado com as oportunidades de colaboração e estou à disposição para discutir mais sobre meus projetos e experiências. Por favor, não hesite em entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/david-lucas-92619a1b3/).
