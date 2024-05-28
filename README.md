@@ -9,7 +9,7 @@ Convido a todos para ler meu perfil e conhecer mais sobre minhas realizações p
 ## Soft Skills 🧠
 
 - Curiosidade
-- Perfil Análitico
+- Perfil Analítico
 - Investigativo
 - Fácil Adaptabilidade
 - Confiabilidade
@@ -51,6 +51,10 @@ Convido a todos para ler meu perfil e conhecer mais sobre minhas realizações p
 ## Projetos Alura + Oracle 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Borges-D&repo=js-curso-2-aula_3&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/js-curso-2-aula_3)
+
+## Linguagens Utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borges-D&layout=compact&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/github-readme-stats)
 
 ## Recrutadores 📞
 
