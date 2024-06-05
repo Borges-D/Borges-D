@@ -4,6 +4,9 @@
 
 Convido a todos para ler meu perfil e conhecer mais sobre minhas realizações profissionais.
 
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/david-lucas-92619a1b3/)
 
 ## Soft Skills 🧠
@@ -53,6 +56,7 @@ Convido a todos para ler meu perfil e conhecer mais sobre minhas realizações p
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Borges-D&repo=js-curso-2-aula_3&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/js-curso-2-aula_3)
 
 ## Linguagens Utilizadas
+![Borges-D GitHub stats](https://github-readme-stats.vercel.app/api?username=borges-d&show_icons=true&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borges-D&layout=compact&bg_color=000&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)](https://github.com/Borges-D/github-readme-stats)
 
